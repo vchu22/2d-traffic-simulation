@@ -100,7 +100,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 608f83976cae1874f8712b0b0a291c2f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0
+  speed: 1
   carSprite:
     North: {fileID: 476276449, guid: da49b060f6c8a81438d4be099e372a7e, type: 3}
     South: {fileID: 509367632, guid: da49b060f6c8a81438d4be099e372a7e, type: 3}
