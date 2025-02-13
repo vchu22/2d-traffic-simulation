@@ -47,5 +47,8 @@ TagManager:
   - name: Vehicles
     uniqueID: 942455417
     locked: 0
+  - name: Buildings
+    uniqueID: 784478673
+    locked: 0
   m_RenderingLayers:
   - Default
